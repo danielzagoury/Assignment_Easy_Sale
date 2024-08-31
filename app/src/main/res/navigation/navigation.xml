@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/entry_Fragment">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.assignment_easy_sale.MainActivity"
+        android:label="MainActivity" />
+    <fragment
+        android:id="@+id/entry_Fragment"
+        android:name="com.example.assignment_easy_sale.Fragments.entry_Fragment"
+        android:label="fragment_entry_"
+        tools:layout="@layout/fragment_entry_" />
+</navigation>

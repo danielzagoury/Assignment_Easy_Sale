@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_Easy_Sale</string>
+    <string name="first_name">first name\n</string>
+    <string name="last_name">last name\n</string>
+    <string name="email">Email</string>
+    <string name="hello_reqres_users">Hello reqres users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
