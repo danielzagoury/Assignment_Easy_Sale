@@ -1,7 +1,7 @@
 # Assigment
 
 ## Description
-* An Android application designed to manage user profiles with functionalities like adding, editing, and viewing user details. The app also allows users to upload and update profile photos and displays a list of users efficiently using a RecyclerView.
+* An Android application designed to manage user profiles with functionalities like adding, editing, and creating new users. The app also allows users to upload and update profile photos and displays a list of users efficiently using a RecyclerView.
 * The app fetches user data from the local database or API and updates the list dynamically. If there are existing users in the database, they are shown in a scrollable list format.
 * Each user is displayed with their profile picture, first name, last name, and email address in a simple and organized layout.
 * At the top right corner or a floating button, you’ll find an Add User icon. This button is used to add new users to the list.
