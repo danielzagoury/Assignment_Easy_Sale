@@ -14,7 +14,6 @@
         android:orientation="vertical"
         android:padding="16dp">
 
-        <!-- ImageView to display selected photo -->
         <ImageView
             android:id="@+id/ivUserPhoto"
             android:layout_width="100dp"
@@ -23,7 +22,6 @@
             android:layout_marginBottom="16dp"
             android:src="@drawable/default_user_photo"  />
 
-        <!-- Button to add photo -->
         <Button
             android:id="@+id/btnAddPhoto"
             android:layout_width="match_parent"
